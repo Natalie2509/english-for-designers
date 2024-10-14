@@ -1,3 +1,3 @@
 # English for Designers
 
-- [Design Manifesto](Manifestp)
+- [Design Manifesto](01-design-manifesto/index.md)
