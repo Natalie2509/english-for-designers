@@ -1,6 +1,5 @@
 [My Github](https://github.com/Natalie2509/english-for-designers/blob/main/README.md)
 
-[My Portfolio](https://nataliedurinska.myportfolio.com/work)
 
 # MY MANIFESTO
 
@@ -31,3 +30,4 @@ Probably all at once... It's just very interesting to me.
 ## Authors
 
 - [@natalie.durinska](https://www.instagram.com/20nd.59/)
+- [My Portfolio](https://nataliedurinska.myportfolio.com/work)
