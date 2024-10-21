@@ -2,7 +2,7 @@
 
 [My Portfolio](https://nataliedurinska.myportfolio.com/work)
 
-# MANIFESTO
+# MY MANIFESTO
 
 ## READABILITY AND SIMPLICITY
 Cleanliness, orderliness, consistency.
