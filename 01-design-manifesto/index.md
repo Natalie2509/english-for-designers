@@ -1,4 +1,4 @@
-https://github.com/Natalie2509/english-for-designers/tree/main
+[Můj Github](https://github.com/Natalie2509/english-for-designers/tree/main)
 
 d, tempor sed magna. Praesent in mauris eu tortor porttitor accumsan.
 
