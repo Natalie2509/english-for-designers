@@ -1,7 +1,6 @@
 # English for Designers
 
 - [Design Manifesto](01-design-manifesto/index.md)
-# Manifesto
 
 ## READABILITY AND SIMPLICITY
 Cleanliness, orderliness, consistency.
