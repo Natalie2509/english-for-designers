@@ -1,4 +1,5 @@
 [My Github](https://github.com/Natalie2509/english-for-designers/blob/main/README.md)
+[My Prezentation](https://www.canva.com/design/DAGUPBYycAs/o5TaqvxHWoi-US4DHOVLnA/edit)
 
 
 # MY MANIFESTO
