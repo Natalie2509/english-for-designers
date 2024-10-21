@@ -1,4 +1,4 @@
-[Můj Github]([https://github.com/Natalie2509/english-for-designers/tree/main](https://github.com/Natalie2509/english-for-designers/edit/main/01-design-manifesto/index.md))
+[Můj Github](https://github.com/Natalie2509/english-for-designers/edit/main/01-design-manifesto/index.md)
 
 # MANIFESTO
 
@@ -26,20 +26,3 @@ Probably all at once... It's just very interesting to me.
 nterdum nec, diam. Maecenas libero. Integer pellentesque quam vel velit. Praesent vitae arcu tempor neque lacinia pretium. Vivamus porttitor turpis ac leo. Aenean placerat. Morbi imperdiet, mauris ac auctor dictum, nisl ligula egestas nulla, et sollicitudin sem purus in lacus. Nulla quis diam. In sem justo, commodo ut, suscipit at, pharetra vitae, orci. Morbi imperdiet, mauris ac auctor dictum, nisl ligula egestas nulla, et sollicitudin sem purus in lacus. Pellentesque arcu. Maecenas ipsum velit, consectetuer eu lobortis ut, dictum at dui. Proin pede metus, vulputate nec, fermentum fringilla, vehicula vitae, justo. Nullam at arcu a est sollicitudin euismod. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos.
 
 Aliquam ornare wisi eu metus. Curabitur bibendum justo non orci. Nulla est. In enim a arcu imperdiet malesuada. Pellentesque ipsum. Duis pulvinar. Phasellus enim erat, vestibulum vel, aliquam a, posuere eu, velit. Etiam bibendum elit eget erat. Nullam faucibus mi quis velit. Aliquam erat volutpat. Fusce aliquam vestibulum ipsum. Cras elementum. Proin mattis lacinia justo. Aliquam ante. Nullam dapibus fermentum ipsum. Aliquam id dolor. Fusce tellus.
-
-
-## Appendix
-
-Tohle napsala Natálka
-
-## Color Reference
-
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Example Color | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
-| Example Color | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
-| Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
-| Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
-
-
-
