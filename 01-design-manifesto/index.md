@@ -10,7 +10,8 @@ These are words that, in my opinion, describe both good design and the work itse
 A clean and clear dsign is the basis for success. For creator and consumer.
 It's not the basic concept of minimalism, I'm convinced that even a large comprehensive design can be clean and clear. Organized chaos works.
 
-
+<nonSort>The</nonSort>
+<title>Vogue</title>
 
 ## ADMIRABLE TYPOGRAPHY
 
