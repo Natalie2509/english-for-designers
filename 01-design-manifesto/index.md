@@ -1,4 +1,5 @@
 [My Github](https://github.com/Natalie2509/english-for-designers/edit/main/01-design-manifesto/index.md)
+
 [My Portfolio](https://nataliedurinska.myportfolio.com/work)
 
 # MANIFESTO
