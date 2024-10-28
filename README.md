@@ -2,5 +2,5 @@
 
 - [Design Manifesto](01-design-manifesto/index.md)
 
-- [My Bio](02-my-bio/index.md)
+- [My Bio](my-bio.md)
 
