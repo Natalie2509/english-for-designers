@@ -13,7 +13,7 @@ She completed her secondary education in a four-year program in Graphic Design, 
 Currently, it is challenging for her to balance work and student life. She spends over eighty hours a week working and twenty hours on school attendance and student responsibilities.
 
 ## WORK
-She recently started working as a freelancer at Autentická média. She is satisfied with the team, her job position, the working environment, and her salary. She creates engaging graphics and marketing strategies. She helps wherever needed and strives to bring interesting solutions to the company.  
+She recently started working as a freelancer at [Autentická média - tým](https://www.autentickamedia.cz/tym). She is satisfied with the team, her job position, the working environment, and her salary. She creates engaging graphics and marketing strategies. She helps wherever needed and strives to bring interesting solutions to the company.  
 She also has her own projects/commissions/clients and is involved in the wedding industry, which is closely related to graphic design and has a large clientele.  
 Currently, she is pursuing her dreams.
 
