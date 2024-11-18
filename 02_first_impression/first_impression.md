@@ -10,15 +10,11 @@ It's not the basic concept of minimalism, I'm convinced that even a large compre
 ## EPRAVO
 Project EPRAVO. It is a redesign of a legal magazine. A group school project that taught me a lot. From typesetting rules to editing covers, and collaborating with the best team.
 
-Let me know if you need any adjustments!
 
 
-
-### INERESTIGN COLOR COMBOS
-This is an strange topic for me. Everyone experiences their own reality. Everyone has a different perception of the world. Different bervas have different impressions on everyone.
-Example with black paint: Someone perceives black as a strong, elegant and dignified colour, another person may perceive it as a sign of darkness.
-what does it affect? Point of view? Method of education? Environmental influence? Current mood? (Maybe Color blindness?)
-Probably all at once... It's just very interesting to me.
+### THE AUTHENTIC MEDIA
+This is my new current and professional project. I create Instagram content, marketing strategies, and much more. I can be creative, have a strong voice, and work with amazing people. I see great potential in the company and I’m excited to see where it will go. I am very satisfied with my "job."
+[Autentická Media - Tým](https://www.autentickamedia.cz/tym)
 
 
 ## Authors
