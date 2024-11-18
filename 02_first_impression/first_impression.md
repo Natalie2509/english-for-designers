@@ -21,7 +21,10 @@ This is my new current and professional project. I create Instagram content, mar
 [Autentická Media - Tým](https://www.autentickamedia.cz/tym)
 
 
-## Authors
+
+
+
+## Contat
 
 - [@natalie.durinska](https://www.instagram.com/20nd.59/)
 - [My Portfolio](https://nataliedurinska.myportfolio.com/work)
