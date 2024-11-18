@@ -7,6 +7,7 @@ This is a school project that I worked on together with my classmate. I’m prou
 
 
 
+
 ## 2) EPRAVO
 Project EPRAVO. It is a redesign of a legal magazine. A group school project that taught me a lot. From typesetting rules to editing covers, and collaborating with the best team.
 
