@@ -4,5 +4,5 @@
 
 - [My Bio](my-bio.md)
 
-- [First Ipression](02-first-impression/first_impression.md)
+- [First Ipression](02_first_impression/first_impression.md)
 
