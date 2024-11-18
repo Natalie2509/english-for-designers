@@ -26,10 +26,5 @@ This is my new current and professional project. I create Instagram content, mar
 
 
 ## Contat:
-
-<a href="https://www.instagram.com/tvůjprofil/" target="_blank">
-  <i class="fa fa-instagram"></i> Instagram
-</a>
-
- [@natalie.durinska](https://www.instagram.com/20nd.59/)
+- [@natalie.durinska](https://www.instagram.com/20nd.59/)
 - [My Portfolio](https://nataliedurinska.myportfolio.com/work)
