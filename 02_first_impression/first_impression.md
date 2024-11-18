@@ -24,7 +24,7 @@ This is my new current and professional project. I create Instagram content, mar
 
 
 
-## Contat
+## Contat:
 
 - [@natalie.durinska](https://www.instagram.com/20nd.59/)
 - [My Portfolio](https://nataliedurinska.myportfolio.com/work)
