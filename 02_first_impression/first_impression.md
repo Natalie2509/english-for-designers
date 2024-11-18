@@ -1,10 +1,9 @@
 # MY PROJECT
 
-## 1) READABILITY AND SIMPLICITY
-Cleanliness, orderliness, consistency.
-These are words that, in my opinion, describe both good design and the work itself and the process of creation.
-A clean and clear dsign is the basis for success. For creator and consumer.
-It's not the basic concept of minimalism, I'm convinced that even a large comprehensive design can be clean and clear. Organized chaos works.
+## 1) CZECH TENNIS
+This is a school project that I worked on together with my classmate. I’m proud of this project because I know it taught both of us patience, greater attention to detail, and strengthened our motivation. Although the assignment was fictional, it was fantastic. The topic was tennis, which I have a personal connection to. With this project, we were able to showcase what we have learned so far.
+
+[Český tenis - Portfolio](https://nataliedurinska.myportfolio.com/cesky-tenis)
 
 
 
