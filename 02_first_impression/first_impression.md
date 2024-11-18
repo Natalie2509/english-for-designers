@@ -7,12 +7,10 @@ A clean and clear dsign is the basis for success. For creator and consumer.
 It's not the basic concept of minimalism, I'm convinced that even a large comprehensive design can be clean and clear. Organized chaos works.
 
 
-## ADMIRABLE TYPOGRAPHY
+## EPRAVO
+Project EPRAVO. It is a redesign of a legal magazine. A group school project that taught me a lot. From typesetting rules to editing covers, and collaborating with the best team.
 
-Good old typography. Handwritten letters. Decorative fonts. Interesting shapes. The craftsmanship has my admiration.
-I have respect for the history of graphic design and typography in general. I think we have a lot to learn from history.
-I also admire the current typography and trends, but I need to see the idea, sharp intellect. I support interesting and creative solutions, but it still has to be functional.
-Yes to originality. No to dysfunction.
+Let me know if you need any adjustments!
 
 
 
