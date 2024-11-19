@@ -17,7 +17,7 @@ Project EPRAVO. It is a redesign of a legal magazine. A group school project tha
 
 
 ### 3) THE AUTHENTIC MEDIA
-This is my new current and professional project. I create Instagram content, marketing strategies, and much more. I can be creative, have a strong voice, and work with amazing people. I see great potential in the company and I’m excited to see where it will go. I am very satisfied with my "job."
+This is my new current and professional project. I create Instagram content, marketing strategies, and much more. I can be creative and work with amazing people. I see great potential in the company and I’m excited to see where it will go. I am very satisfied with my "job."
 
 [Autentická Media - Tým](https://www.autentickamedia.cz/tym)
 
