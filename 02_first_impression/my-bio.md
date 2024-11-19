@@ -1,5 +1,5 @@
 # Concise tagline
-**Graphic designer, student, aspiring entrepreneur.** Recently started working as a freelancer at Autentická média.  
+**Graphic designer, student, aspiring entrepreneur.** Recently started working as a freelancer at Authentic media.  
 Specializes in creating print materials, graphic identities/brands, and content for social media.
 
 ---
