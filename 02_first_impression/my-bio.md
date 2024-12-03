@@ -1,5 +1,5 @@
 # HELLO!
-My name is Natalie and I'm a **graphic designer, student, aspiring entrepreneur and part-time model.** 
+My name is Natali and I'm a **graphic designer, student, aspiring entrepreneur and part-time model.** 
 Recently started working as a freelancer at Authentic media. Specializes in creating print materials, graphic identities, and content for social media.
 
 ---
