@@ -5,7 +5,7 @@ Specializes in creating print materials, graphic identities, and content for soc
 ---
 
 # Expanded bio
-**Graphic designer, student, and aspiring entrepreneur living in Prague.**
+**Graphic designer, student and aspiring entrepreneur living in Prague.**
 
 ## SCHOOL
 She is completing her final year of bachelor’s studies at the Creative Communication University in the field of Graphic and Media Dressing. The school has a marketing focus. She is making the most of it, gaining new contacts and valuable experience.  
