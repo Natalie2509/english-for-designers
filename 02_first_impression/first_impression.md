@@ -31,6 +31,6 @@ The LEAP project is unique in its theme. It was a psychological, playful app des
 
 
 
-## Contat:
+## Contact:
 - [@natalie.durinska](https://www.instagram.com/20nd.59/)
 - [My Portfolio](https://nataliedurinska.myportfolio.com/work)
