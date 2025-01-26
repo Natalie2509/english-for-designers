@@ -16,7 +16,7 @@ Project EPRAVO. It is a redesign of a legal magazine. A group school project tha
 
 
 
-### 3) THE AUTHENTIC MEDIA
+## 3) THE AUTHENTIC MEDIA
 This is my new current and professional project. I create Instagram content, marketing strategies, and much more. I can be creative and work with amazing people. I see great potential in the company and I’m excited to see where it will go. I am very satisfied with my "job."
 
 [Autentická Media - Tým](https://www.autentickamedia.cz/tym)
@@ -24,7 +24,7 @@ This is my new current and professional project. I create Instagram content, mar
 
 
 
-#### 4) LEAP
+## 4) LEAP
 The LEAP project is unique in its theme. It was a psychological, playful app designed to motivate people every day. The mobile app generated one task per day for the user. The app was very diverse and colorful. The LEAP project was also a team effort. We were a large team, but we worked well together. Currently, our project is displayed at Prague's Náplavka. I can imagine that the project could be realized, and people would be able to install the app on their phones.
 
 
