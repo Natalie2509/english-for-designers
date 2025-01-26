@@ -19,7 +19,7 @@ Yes to originality. No to dysfunction.
 
 
 
-### INERESTIGN COLOR COMBOS
+### INTERESTING COLOR COMBINATIONS
 This is an strange topic for me. Everyone experiences their own reality. Everyone has a different perception of the world. Different bervas have different impressions on everyone.
 Example with black paint: Someone perceives black as a strong, elegant and dignified colour, another person may perceive it as a sign of darkness.
 what does it affect? Point of view? Method of education? Environmental influence? Current mood? (Maybe Color blindness?)
