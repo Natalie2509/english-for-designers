@@ -29,7 +29,6 @@ The LEAP project is unique in its theme. It was a psychological, playful app des
 
 ![iPhone 13   14 - 31](https://github.com/user-attachments/assets/2fb1ae24-75be-474e-af92-521158a9a33f)
 ![iPhone 13   14 - 32](https://github.com/user-attachments/assets/cc899216-cec9-42e8-a98b-214ea72aa1bd)
-![iPhone 13   14 - 26](https://github.com/user-attachments/assets/8048174e-2d0e-415c-9a8b-08342a033a2b)
 
 
 
