@@ -26,8 +26,7 @@ This is my new current and professional project. I create Instagram content, mar
 
 ## 4) LEAP
 The LEAP project is unique in its theme. It was a psychological, playful app designed to motivate people every day. The mobile app generated one task per day for the user. The app was very diverse and colorful. The LEAP project was also a team effort. We were a large team, but we worked well together. Currently, our project is displayed at Prague's Náplavka. I can imagine that the project could be realized, and people would be able to install the app on their phones.
-
-
+![iPhone 13   14 - 31](https://github.com/user-attachments/assets/2fb1ae24-75be-474e-af92-521158a9a33f)
 
 
 
