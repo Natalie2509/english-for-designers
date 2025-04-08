@@ -1,6 +1,7 @@
 # HELLO!
 My name is Natali and I'm a **graphic designer, student, aspiring entrepreneur and part-time model.** 
-Recently started working as a freelancer at Authentic media. Specializes in creating print materials, graphic identities, and content for social media.
+Recently started working as a freelancer at Authentic media. Specializes in creating print materials, graphic identities, and content for social media. 
+He now also specialises in brand marketing strategy. It's a great link with graphic design. I am able to offer clients comprehensive packages of my services.
 
 ---
 
