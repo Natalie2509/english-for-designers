@@ -1,5 +1,7 @@
 # MY PROJECT
 
+[How to Get New Clients – Canva Presentation](https://www.canva.com/design/DAGl6wlAkcs/4T0Sy_7TsqzAPffLSZ5Xww/edit?utm_content=DAGl6wlAkcs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ## 1) CZECH TENNIS
 This is a school project that I worked on together with my classmate. I’m proud of this project because I know it taught both of us patience, greater attention to detail, and strengthened our motivation. Although the assignment was fictional, it was fantastic. The topic was tennis, which I have a personal connection to. We spent a lot of time designing the logo. We had interesting and valuable consultations. With this project, we were able to showcase what we have learned so far.
 
